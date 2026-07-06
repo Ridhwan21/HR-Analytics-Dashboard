@@ -42,6 +42,18 @@ source: kaggle
 
 ---
 
+Key Insights
+
+• Research & Development has the largest workforce.
+
+• Sales experiences higher employee attrition.
+
+• Monthly income differs significantly across job roles.
+
+• Dashboard filters allow analysis by department, gender, business travel, and education field.
+
+---
+
 ## Files
 
 - HR_Analytics_Dashboard.pbix
