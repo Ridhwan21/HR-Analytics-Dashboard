@@ -58,3 +58,13 @@ Key Insights
 
 - HR_Analytics_Dashboard.pbix
 - hr_analytics.sql
+- dashboard.png
+- project1sqlscript.sql
+
+---
+
+## Project Summary
+
+Built an interactive HR Analytics dashboard using MySQL and Power BI to analyze employee attrition, salary distribution, workforce demographics, and departmental trends. The dashboard includes interactive filters and KPIs to support business decision making.
+
+---
