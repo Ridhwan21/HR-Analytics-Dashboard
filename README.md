@@ -26,7 +26,7 @@ IBM HR Analytics Employee Attrition & Performance Dataset
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Features
 
