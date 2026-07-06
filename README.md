@@ -22,6 +22,12 @@ The dashboard analyzes employee data to understand workforce distribution, salar
 
 IBM HR Analytics Employee Attrition & Performance Dataset
 
+---
+
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 ## Features
 
 - Total Employee KPI
